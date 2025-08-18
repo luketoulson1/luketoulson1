@@ -3,7 +3,7 @@
 <h2>Information Technology Projects:</h2>
 
 - <b>Active Directory Labs</b>
-  - Deploying On-premises Active Directory using Microsoft Azure VMs
+  - Deploying On-premises Active Directory using Microsoft Azure
 
 
   

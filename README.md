@@ -4,7 +4,7 @@
 
 - <b>Microsoft Azure</b>
   - [Deploying On-premises Active Directory using Microsoft Azure](https://github.com/luketoulson1/Active-Directory-using-Azure)
-  - [Setting up Group Policy and Managing Accounts] 
+  
     
 
 
